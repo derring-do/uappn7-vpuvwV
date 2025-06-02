@@ -1,4 +1,4 @@
-<style>h1 {display: none;}</style>
+<style>h1 {display: none;} table {font-size: .8em;}</style>
 
 
 [A. Reaching consensus by efficiently communicating complexity](#a)
