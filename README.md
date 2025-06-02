@@ -6,7 +6,9 @@ Tanya Reilly on [glue work](https://www.noidea.dog/glue):
 
 [A. Reaching consensus by efficiently communicating complexity](#a)
 
-[B. Technical experience replatforming data collection, warehousing, and BI tools](#b)
+[B. Showing progress while drowning in technical debt](#b)
+
+[C. Strongly worded emails](#c)
 
 <h2 id="a">A. Reaching consensus by efficiently communicating complexity</h2>
 
@@ -21,7 +23,7 @@ Colleagues say my documentation has expedited collaboration with technical and l
 |Team X's Ask for Team Y|1. Fire API calls from relevant components to pouplate survey responses| 1. Ensure content can be embedded (CORS, CSP)<br>2. Pass user info to survey| 1. Setup Vendor SDK<br>2. Pass user info to survey via URL| 1. Insert link in app<br>2. Pass user info to survey via URL|
 |Setup/Upkeep by Team|S: ⬛⬛⬜⬜<br><br>U: ⬛⬜|S: ⬛⬛⬜<br><br>U: ⬜|S: ⬛⬛⬛⬜⬜<br><br>U: ⬛⬛⬜|S: ⬛⬜<br><br>U: ⬜|
 
-<h2 id="b">B. Technical experience replatforming data collection, warehousing, and BI tools</h2>
+<h2 id="b">B. Showing progress while drowning in technical debt</h2>
 
 I presented this to a busy, moderately technical senior director to show our team's progress and obstacles in one view. 
 
@@ -31,3 +33,6 @@ I presented this to a busy, moderately technical senior director to show our tea
 |Changing platforms|<b>4 platforms:</b><br>Qualtrics, Teradata, Alteryx, Tableau |<b>6 platforms:</b><br>Qualtrics, Verint, Teradata, Alteryx, Tableau, Databricks-Env1 | <b>5 platforms:</b><br>Qualtrics, Verint, Tableau, Databricks-Env1, Databricks-Env2|<b>3 platforms:</b><br>Verint, Tableau, Databricks-Env1|"|
 |Faster insights|Dashboards updated manually, daily|Dashboards refreshed automatically & hourly|"|"|Automated GenAI summaries of themes, anomalies|
 |Better data|1. No automatic monitoring of data quality; doing reactive investigations<br><br>2. Supplemental data limited by: dependencies on other teams, migrations, firewalls, fragmented and conflicting documentation|"|"|1. Hourly alerts about anomalies<br><br>2. Supplemental data expanded to Warehouse A, Datalake Z|Improve understanding of disparate data catalogs|
+
+<h2 id="c">C. Strongly worded emails</h2>
+
