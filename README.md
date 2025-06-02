@@ -1,4 +1,4 @@
-<style>h1 {display: none;} table {font-size: .8em;}</style>
+<style>h1 {display: none;} table {font-size: .8em; line-height:1.05em;}</style>
 
 
 [A. Reaching consensus by efficiently communicating complexity](#a)
@@ -27,4 +27,4 @@ I presented this to a busy, moderately technical senior director to show our tea
 |Fewer dependencies|Dependent on Team B for Teradata and Alteryx ETL. Couldn't add or revise data in pipeline|Managing our own ETLs|"|"|"|
 |Changing platforms|<b>4 platforms:</b><br>Qualtrics, Teradata, Alteryx, Tableau |<b>6 platforms:</b><br>Qualtrics, Verint, Teradata, Alteryx, Tableau, Databricks-Env1 | <b>5 platforms:</b><br>Qualtrics, Verint, Tableau, Databricks-Env1, Databricks-Env2|<b>3 platforms:</b><br>Verint, Tableau, Databricks-Env1|"|
 |Faster insights|Dashboards updated manually, daily|Dashboards refreshed automatically & hourly|"|"|Automated GenAI summaries of themes, anomalies|
-|Better data|1. No automatic monitoring of data quality; doing reactive investigations<br>2. Supplemental data limited by: dependencies on other teams, migrations, firewalls, fragmented and conflicting documentation|"|"|1. Hourly alerts about anomalies<br>2. Supplemental data expanded to Warehouse A, Datalake Z|Improve understanding of disparate data catalogs|
+|Better data|1. No automatic monitoring of data quality; doing reactive investigations<br><br>2. Supplemental data limited by: dependencies on other teams, migrations, firewalls, fragmented and conflicting documentation|"|"|1. Hourly alerts about anomalies<br><br>2. Supplemental data expanded to Warehouse A, Datalake Z|Improve understanding of disparate data catalogs|
