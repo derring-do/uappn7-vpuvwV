@@ -16,7 +16,7 @@ Colleagues say my documentation has expedited collaboration with technical and l
 |Pros|1. Consistent design<br>2. Users stay in app| 1. Team X manages logic (easier to use complex logic)<br>2. Users stay in app| Same as B| 1. Team X manages logic (easier to use complex logic)|
 |Cons|1. Team Y designs survey UI<br>2. Team Y manages survey logic | 1. Minor design variance| 1. Major design variance<br>2. SDK size may be no-go | 1. Users leave app|
 |Team X's Ask for Team Y|1. Fire API calls from relevant components to pouplate survey responses| 1. Ensure content can be embedded (CORS, CSP)<br>2. Pass user info to survey| 1. Setup Vendor SDK<br>2. Pass user info to survey via URL| 1. Insert link in app<br>2. Pass user info to survey via URL|
-|Setup/Upkeep by Team|<span style="font-family:mono">S: ⬛⬛⬜⬜<br><br>U: ⬛⬜|S: ⬛⬛⬜<br><br>U: ⬜|S: ⬛⬛⬛⬜⬜<br><br>U: ⬛⬛⬜|S: ⬛⬜<br><br>U: ⬜</span>|
+|Setup/Upkeep by Team|S: ⬛⬛⬜⬜<br><br>U: ⬛⬜|S: ⬛⬛⬜<br><br>U: ⬜|S: ⬛⬛⬛⬜⬜<br><br>U: ⬛⬛⬜|S: ⬛⬜<br><br>U: ⬜|
 
 <h2 id="b">B. Technical experience replatforming data collection, warehousing, and BI tools</h2>
 
