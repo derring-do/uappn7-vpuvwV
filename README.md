@@ -34,7 +34,7 @@ I presented this to a busy, moderately technical senior director to show our tea
 |Faster insights|Dashboards updated manually, daily|Dashboards refreshed automatically & hourly|"|"|Automated GenAI summaries of themes, anomalies|
 |Better data|1. No automatic monitoring of data quality; doing reactive investigations<br><br>2. Supplemental data limited by: dependencies on other teams, migrations, firewalls, fragmented and conflicting documentation|"|"|1. Hourly alerts about anomalies<br><br>2. Supplemental data expanded to Warehouse A, Datalake Z|Improve understanding of disparate data catalogs|
 
-<h2 id="c">C. Asking pointed and constructive questions</h2>
+<h2 id="c">C. Asking pointed yet constructive questions</h2>
 
 Examples from memory:
 
