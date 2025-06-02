@@ -1,5 +1,10 @@
 <style>h1 {display: none;} table {font-size: .8em; line-height:1.05em;}</style>
 
+<div style="font-size:2em; font-weight:bold; line-height:2em; ">Amanda's Portfolio of Glue Work</div>
+<br>
+Tanya Reilly on [glue work](https://www.noidea.dog/glue):
+<blockquote>You'd like to have time to code, but nobody else is onboarding the junior engineers, updating the roadmap, talking to the users, noticing the things that got dropped, asking questions on design documents, and making sure that everyone's going roughly in the same direction. If you stop doing those things, the team won't be as successful. But now someone's suggesting that you might be happier in a less technical role. If this describes you, congratulations: you're the glue. If it's not, have you thought about who is filling this role on your team?
+</blockquote>
 
 [A. Reaching consensus by efficiently communicating complexity](#a)
 
