@@ -25,7 +25,7 @@ Colleagues say my documentation has expedited collaboration with technical and l
 
 <h2 id="b">B. Showing progress while drowning in technical debt</h2>
 
-I presented this to a busy, moderately technical senior director to show our team's progress and obstacles in one view. 
+I presented this to a busy, moderately technical/mostly business-oriented senior director to show our team's progress and obstacles in one view. 
 
 |   | Q1 Year 1 | Q2 Year 1 | Q3 Year 1 | Q4 Year 1 | Q1 Year 2+ | 
 |:--|:----------|:----------|:----------|:----------|:----------|
