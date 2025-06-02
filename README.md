@@ -1,3 +1,5 @@
+<style>h1 {display: none;}</style>
+
 ## A. Visual aid that helped technical and business stakeholders pick an implementation path
 
 This is a simplified version of something I created to reach consensus for a decision involving multiple teams and varying implications for their time/labor and autonomy.
