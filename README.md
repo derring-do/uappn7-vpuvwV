@@ -8,7 +8,7 @@ Tanya Reilly on [glue work](https://www.noidea.dog/glue):
 
 [B. Showing progress while drowning in technical debt](#b)
 
-[C. Strongly worded emails](#c)
+[C. Asking pointed yet constructive questions](#c)
 
 <h2 id="a">A. Reaching consensus by efficiently communicating complexity</h2>
 
@@ -34,5 +34,9 @@ I presented this to a busy, moderately technical senior director to show our tea
 |Faster insights|Dashboards updated manually, daily|Dashboards refreshed automatically & hourly|"|"|Automated GenAI summaries of themes, anomalies|
 |Better data|1. No automatic monitoring of data quality; doing reactive investigations<br><br>2. Supplemental data limited by: dependencies on other teams, migrations, firewalls, fragmented and conflicting documentation|"|"|1. Hourly alerts about anomalies<br><br>2. Supplemental data expanded to Warehouse A, Datalake Z|Improve understanding of disparate data catalogs|
 
-<h2 id="c">C. Strongly worded emails</h2>
+<h2 id="c">C. Asking pointed and constructive questions</h2>
+
+Examples from memory:
+
+1. <b>TECHNICAL PLATFORM OWNER:</b> There will be a chargeback model for ANALYTICS PLATFORM starting next year. Some of your leadership may not be expecting that, so let them know so you get budget for it. We're pushing ANALYTICS PLATFORM as the enterprise solution.<br><br><b>ME:</b> I think I'm on one of the teams whose leadership isn't expecting the chargeback. I see ANALYTICS PLATFORM as a utility like electricity, but they're used to a Microsoft Excel model where you pay for a license effectively once. How is ANALYTICS PLATFORM simultaneously the enterprise-endorsed tool but also effectively optional via budgeting? Can your team provide any resources or guidance for navigating that tension for leaders unfamiliar with cloud service models? I don't feel like my role has the authority to influence that. 
 
