@@ -10,7 +10,7 @@ Tanya Reilly on [glue work](https://www.noidea.dog/glue):
 
 [C. Asking pointed yet constructive questions](#c)
 
-[D. Choosing the right data/methodology for the job](#d)
+[D. Choosing the right data/analysis for the job](#d)
 
 <h2 id="a">A. Reaching consensus by efficiently communicating complexity</h2>
 
@@ -42,7 +42,7 @@ Examples from memory:
 
 1. <b>TECHNICAL PLATFORM OWNER:</b> There will be a chargeback model for ANALYTICS PLATFORM starting next year. Some of your leadership may not be expecting that, so let them know so you get budget for it. We're pushing ANALYTICS PLATFORM as the enterprise solution.<br><br><b>ME:</b> I think I'm on one of the teams whose leadership isn't expecting the chargeback. I see ANALYTICS PLATFORM as a utility like electricity, but they're used to a Microsoft Excel model where you pay for a license effectively once. How is ANALYTICS PLATFORM simultaneously the enterprise-endorsed tool but also effectively optional via budgeting? Can your team provide any resources or guidance for navigating that tension for leaders unfamiliar with cloud service models? I don't feel like my role has the authority to influence that. 
 
-<h2 id="d">D. Choosing the right data/methodology for the job</h2>
+<h2 id="d">D. Choosing the right data/analysis for the job</h2>
 
 1. An Analytics VP requested a conjoint study with the goal of determining pricing for new subscription tiers. The features of each tier were finalized, informed by an earlier conjoint study done by consultants. I convinced the VP to allow an alternative experimental design for these reasons:
     1. Conjoints are meant to assess relative values of features in a set, and we'd already determined which features go in which tier
