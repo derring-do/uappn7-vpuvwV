@@ -44,11 +44,11 @@ Examples from memory:
 
 <h2 id="d">D. Choosing the right data/analysis for the job</h2>
 
-1. An Analytics VP requested a conjoint study with the goal of determining pricing for new subscription tiers. The features of each tier were finalized, informed by an earlier conjoint study done by consultants. I convinced the VP to allow an alternative experimental design for these reasons:
+1. <b>An Analytics VP requested a conjoint study with the goal of determining pricing for new subscription tiers.</b> The features of each tier were finalized, informed by an earlier conjoint study done by consultants. I convinced the VP to allow an alternative experimental design for these reasons:
     1. Conjoints are meant to assess relative values of features in a set, and we'd already determined which features go in which tier
     2. The results of a conjoint are typically "part-worth utilities" which are not business-stakeholder-friendly units like "percentage of respondents" or "estimated revenue"
 
-2. A product manager asked if we could "A/B test our search engine." Sounds pretty disruptive--what's the goal? He said they felt like the current search engine surfaced too much sponsored/paid content (a hard stop for many) vs. free/unpaywalled content (a friendlier UX to conversion). The dev team had a Search Engine B pilot staged on the QA site, but there wasn't a clear sense of what the primary test metric would be and it would cost time and money to fully replace the current search. I scripted "baselining queries"--a set of our top 200 search terms--to run on both search algorithms and compared the proportion of paid vs. free results.
+2. <b>A product manager asked if we could "A/B test our search engine."</b> Sounds pretty disruptive--what's the goal? He said they felt like the current search engine surfaced too much sponsored/paid content (a hard stop for many) vs. free/unpaywalled content (a friendlier UX to conversion). The dev team had a Search Engine B pilot staged on the QA site, but there wasn't a clear sense of what the primary test metric would be and it would cost time and money to fully replace the current search. I scripted "baselining queries"--a set of our top 200 search terms--to run on both search algorithms and compared the proportion of paid vs. free results.
 
      | Search Engine | % Paid Content   | % Free Content |
      |---------------|------------------|----------------|
