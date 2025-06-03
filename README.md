@@ -1,4 +1,4 @@
-<style>h1::first-letter{text-decoration: overline;} h1>a:hover {display: inline-block; transform: rotate(180deg); text-decoration: unset;} h1>a::first-letter{text-decoration: overline;} table {font-size: .8em; line-height:1.05em;}</style>
+<style>h1 {color:black; } h1::first-letter{text-decoration: overline;} h1>a:hover {display: inline-block; transform: rotate(180deg); text-decoration: unset;} h1>a::first-letter{text-decoration: overline;} table {font-size: .8em; line-height:1.05em;}</style>
 
 Tanya Reilly on [glue work](https://www.noidea.dog/glue):
 <blockquote>You'd like to have time to code, but nobody else is onboarding the junior engineers, updating the roadmap, talking to the users, noticing the things that got dropped, asking questions on design documents, and making sure that everyone's going roughly in the same direction. If you stop doing those things, the team won't be as successful. But now someone's suggesting that you might be happier in a less technical role. If this describes you, congratulations: you're the glue. If it's not, have you thought about who is filling this role on your team?
